@@ -1,1 +1,1 @@
-#Este é um pequeno projeto Teste de JavaScript
+Este é um pequeno projeto Teste de JavaScript
